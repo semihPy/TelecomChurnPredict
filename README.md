@@ -12,3 +12,5 @@
 - Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9% - 2%.
 - You can see my Kaggle dataset:
 https://www.kaggle.com/semihizinli/churn-telecom-project
+- You can see my medium article:
+https://medium.com/@semihizinli33/telecom-customer-churn-prediction-83f42e5ca9b4
