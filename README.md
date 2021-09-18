@@ -1,5 +1,5 @@
 # Telecom Churn Prediction
-- Introduction
+## Introduction
 ## What is the churn rate?
 - Wikipedia states that the churn rate (also called attrition rate) measures the number of individuals or items moving out of a collective group over a specific period.
 - It applies in many contexts, but the mainstream understanding of churn rate is related to the business case of customers that stop buying from you.
@@ -10,3 +10,5 @@
 - Machine learning and data analysis are powerful ways to identify and predict churn.
 - Churn is a one of the biggest problem in the telecom industry.
 - Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9% - 2%.
+- You can see my Kaggle dataset:
+https://www.kaggle.com/semihizinli/churn-telecom-project
